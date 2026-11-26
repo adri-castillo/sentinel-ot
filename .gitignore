@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.env
+data/
+node_modules/
+.dagster/
+*.parquet
+.DS_Store
